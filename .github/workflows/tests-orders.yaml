@@ -1,4 +1,4 @@
-name: test
+name: tests-orders
 
 on:
   pull_request
